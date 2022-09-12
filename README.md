@@ -2,6 +2,8 @@
 
 En la funcion send_file no incluyo mi propio mail por razones obvias de seguridad.
 
+El archivo 'Nombres.pdf' esta duplicado intencionalmente en la carpeta 'pages_to_send' para que se mantenga la misma en el repositorio
+
 
 ## Mejoras:
 
