@@ -100,6 +100,7 @@ def send_mails(path_to_directory = DEFAULT_PATH):
 
 def main():
   try:
+    clean_directory(DEFAULT_PATH)
     send_mails()
     clean_directory(DEFAULT_PATH)
   except Exception as e:
